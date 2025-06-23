@@ -1,5 +1,4 @@
 import time
-import base64
 import google.generativeai as genai
 from email.mime.text import MIMEText
 from google.oauth2 import service_account
